@@ -19,7 +19,7 @@
 4. **Achievements:**
    - Unlockable rewards for completing specific challenges, such as:
      - Answering all questions correctly.
-     - Completing all questions within given time-frames
+     - Completing all questions within given time-frames.
 
 5. **User Authentication:**
    - Each user has a unique profile, and progress is saved for personalized experiences.
