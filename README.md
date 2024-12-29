@@ -18,9 +18,8 @@
 
 4. **Achievements:**
    - Unlockable rewards for completing specific challenges, such as:
-     - Answering all club-level trivia questions correctly.
-     - Completing all questions in under 10 seconds.
-     - Completing all questions in under 5 seconds.
+     - Answering all questions correctly.
+     - Completing all questions within given time-frames
 
 5. **User Authentication:**
    - Each user has a unique profile, and progress is saved for personalized experiences.
